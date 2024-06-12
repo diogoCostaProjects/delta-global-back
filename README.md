@@ -1,4 +1,4 @@
-# CodeIgniter 4 Application Starter
+# Backend da aplicação em Codeigniter 4
 
 ## Instalação
 
